@@ -1,7 +1,8 @@
 # joy_er_portfolio
 
-A new Flutter project.
+Joy first Portfolio Flutter Project
 
+![screenshot](assets/images/sample.png)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
